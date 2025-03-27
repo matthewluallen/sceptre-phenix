@@ -14,7 +14,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/vue-fontawesome": "^2.0.6",
     "buefy": "^0.9.22",
-    "d3": "^6.2.0",
+    "d3": "^6.7.0",
     "file-saver": "^2.0.5",
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.15",
